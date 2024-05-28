@@ -1,0 +1,300 @@
+Disease,Fever,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Disease_code
+Influenza,1,1,19,1,0,1,1,0
+Common Cold,0,0,25,1,1,1,0,1
+Eczema,0,0,25,1,1,1,0,2
+Asthma,1,1,25,0,1,1,1,3
+Eczema,1,0,25,1,1,1,1,2
+Influenza,1,1,25,1,1,1,1,0
+Hyperthyroidism,0,0,28,1,1,1,0,4
+Asthma,1,1,28,0,2,1,1,3
+Allergic Rhinitis,0,0,29,1,1,0,0,5
+Anxiety Disorders,0,0,29,1,1,2,0,6
+Common Cold,0,0,29,1,0,1,0,1
+Diabetes,0,0,29,0,0,1,0,7
+Gastroenteritis,0,0,29,1,1,1,0,8
+Pancreatitis,1,0,29,1,2,1,0,9
+Rheumatoid Arthritis,0,1,29,1,2,2,0,10
+Depression,1,1,29,0,2,1,1,11
+Liver Cancer,1,1,29,1,1,1,1,12
+Stroke,1,1,29,1,1,1,1,13
+Urinary Tract Infection,1,0,29,0,2,2,1,14
+Dengue Fever,1,0,30,1,1,1,0,15
+Eczema,0,0,30,0,2,2,0,2
+Gastroenteritis,1,0,30,0,2,2,0,8
+Hepatitis,1,1,30,0,2,1,0,16
+Kidney Cancer,0,0,30,0,1,1,0,17
+Migraine,1,0,30,1,1,1,0,18
+Migraine,0,0,30,1,1,1,0,18
+Muscular Dystrophy,0,0,30,0,2,2,0,19
+Sinusitis,0,0,30,0,1,1,0,20
+Ulcerative Colitis,1,0,30,1,1,1,0,21
+Ulcerative Colitis,0,0,30,1,1,1,0,21
+Asthma,1,1,30,1,1,1,1,3
+Bipolar Disorder,0,0,30,1,2,2,1,22
+Bronchitis,1,1,30,1,0,1,1,23
+Bronchitis,1,1,30,0,2,2,1,23
+Cerebral Palsy,0,1,30,1,1,1,1,24
+Colorectal Cancer,0,0,30,1,1,2,1,25
+Eczema,1,0,30,0,2,2,1,2
+Hypertensive Heart Disease,0,0,30,1,2,2,1,26
+Influenza,1,0,30,0,2,1,1,0
+Influenza,1,1,30,1,1,1,1,0
+Multiple Sclerosis,0,0,30,1,2,2,1,27
+Myocardial Infarction (Heart...,1,1,30,1,2,2,1,28
+Urinary Tract Infection (UTI),1,0,30,1,1,1,1,29
+Asthma,0,1,31,0,1,0,0,3
+Osteoporosis,0,1,31,0,0,1,0,30
+Common Cold,1,1,31,0,2,2,1,1
+Migraine,1,0,31,1,1,1,1,18
+Pneumonia,1,1,32,1,2,1,1,31
+Allergic Rhinitis,0,0,35,1,1,0,0,5
+Asthma,0,1,35,1,1,2,0,3
+Asthma,1,1,35,1,1,1,0,3
+Asthma,0,1,35,1,2,1,0,3
+Atherosclerosis,0,0,35,0,1,1,0,32
+Chronic Obstructive Pulmonary...,1,1,35,0,1,1,0,33
+Common Cold,1,0,35,0,2,1,0,1
+Eczema,0,0,35,0,2,1,0,2
+Epilepsy,0,0,35,0,2,2,0,34
+Hypertension,1,0,35,1,2,1,0,35
+Hyperthyroidism,1,0,35,1,1,1,0,4
+Obsessive-Compulsive Disorde...,0,0,35,0,1,1,0,36
+Pneumonia,1,1,35,1,1,1,0,31
+Psoriasis,1,0,35,1,1,0,0,37
+Psoriasis,0,0,35,1,1,0,0,37
+Rubella,1,0,35,1,2,1,0,38
+Urinary Tract Infection (UTI),0,0,35,0,2,2,0,29
+Asthma,1,1,35,0,1,1,1,3
+Cirrhosis,0,0,35,1,1,2,1,39
+Conjunctivitis (Pink Eye),0,0,35,1,2,2,1,40
+Depression,0,0,35,1,1,2,1,11
+Gastroenteritis,1,1,35,0,0,2,1,8
+Hyperthyroidism,1,0,35,0,2,2,1,4
+Kidney Cancer,0,0,35,0,2,2,1,17
+Liver Cancer,0,0,35,1,2,2,1,12
+Liver Disease,0,0,35,0,2,2,1,41
+Malaria,1,0,35,0,2,2,1,42
+Migraine,0,0,35,0,2,2,1,18
+Migraine,1,0,35,0,2,2,1,18
+Pancreatitis,0,0,35,0,1,2,1,9
+Rheumatoid Arthritis,1,0,35,0,1,0,1,10
+Rheumatoid Arthritis,0,0,35,1,1,0,1,10
+Spina Bifida,0,0,35,1,1,1,1,43
+Ulcerative Colitis,0,0,35,0,2,2,1,21
+Ulcerative Colitis,1,0,35,0,2,2,1,21
+Urinary Tract Infection,1,0,35,1,1,2,1,14
+Allergic Rhinitis,0,0,38,1,0,1,0,5
+Depression,0,0,38,1,1,2,0,11
+Gastroenteritis,0,0,38,0,1,0,0,8
+Influenza,0,0,38,0,1,1,0,0
+Kidney Disease,0,0,38,1,0,1,0,44
+Liver Cancer,1,0,38,1,2,1,0,12
+Liver Disease,0,1,38,0,0,1,0,41
+Osteoporosis,0,0,38,1,1,2,0,30
+Stroke,1,0,38,1,2,1,0,13
+Anxiety Disorders,1,1,38,0,2,2,1,6
+Diabetes,1,1,38,0,2,0,1,7
+Migraine,1,0,38,0,2,2,1,18
+Osteoarthritis,1,0,38,0,2,2,1,45
+Pneumonia,1,1,38,0,1,1,1,31
+Klinefelter Syndrome,0,0,39,1,1,1,1,46
+Acne,0,0,40,0,1,1,0,47
+Brain Tumor,0,0,40,0,1,1,0,48
+Bronchitis,0,1,40,1,1,1,0,23
+Cystic Fibrosis,0,1,40,0,2,2,0,49
+Diabetes,1,0,40,1,2,2,0,7
+Glaucoma,0,0,40,0,2,1,0,50
+Osteoarthritis,0,0,40,0,2,1,0,45
+Rabies,1,0,40,1,2,1,0,51
+Asthma,1,0,40,0,0,1,1,3
+Asthma,1,1,40,1,1,1,1,3
+Asthma,0,1,40,0,2,2,1,3
+Asthma,1,1,40,0,1,2,1,3
+Chickenpox,0,0,40,0,1,2,1,52
+Coronary Artery Disease,0,0,40,1,2,2,1,53
+"Eating Disorders (Anorexia,...",0,0,40,1,2,2,1,54
+Fibromyalgia,0,0,40,1,2,2,1,55
+Gastroenteritis,1,0,40,0,2,2,1,8
+Hemophilia,0,0,40,1,1,1,1,56
+Hyperthyroidism,0,0,40,0,2,2,1,4
+Hypoglycemia,0,0,40,1,2,2,1,57
+Lymphoma,0,0,40,1,1,2,1,58
+Pneumonia,1,1,40,1,1,2,1,31
+Psoriasis,0,0,40,0,2,1,1,37
+Psoriasis,1,0,40,0,2,1,1,37
+Psoriasis,0,0,40,1,1,2,1,37
+Tuberculosis,1,1,40,0,2,2,1,59
+Anxiety Disorders,0,0,42,0,0,1,0,6
+Common Cold,1,0,42,1,2,2,0,1
+Depression,1,1,42,0,2,1,0,11
+Influenza,0,0,42,1,1,2,0,0
+Kidney Cancer,1,0,42,1,1,1,0,17
+Liver Cancer,1,1,42,0,1,0,0,12
+Liver Disease,1,1,42,1,1,1,0,41
+Lung Cancer,1,1,42,0,1,0,0,60
+Migraine,1,0,42,0,2,2,0,18
+Osteoarthritis,0,0,42,0,1,0,0,45
+Stroke,1,0,42,0,1,0,0,13
+Urinary Tract Infection,0,1,42,1,1,0,0,14
+Diabetes,1,0,42,0,2,1,1,7
+Hypothyroidism,1,0,42,1,2,2,1,61
+Kidney Disease,1,0,42,1,2,0,1,44
+Pneumonia,0,1,43,1,2,1,1,31
+Allergic Rhinitis,0,0,45,0,2,1,0,5
+Autism Spectrum Disorder (ASD),0,0,45,0,1,1,0,62
+Crohn's Disease,1,0,45,0,2,1,0,63
+Hepatitis,1,0,45,1,2,2,0,16
+Hyperglycemia,0,0,45,0,1,1,0,64
+Kidney Cancer,0,1,45,0,1,0,0,17
+Kidney Disease,1,0,45,0,1,2,0,44
+Melanoma,1,0,45,0,2,1,0,65
+Migraine,0,0,45,1,0,1,0,18
+Ovarian Cancer,0,0,45,0,1,1,0,66
+Pancreatitis,0,1,45,0,1,0,0,9
+Rheumatoid Arthritis,1,0,45,0,1,1,0,10
+Stroke,0,0,45,0,1,1,0,13
+Turner Syndrome,0,0,45,0,2,2,0,67
+Urinary Tract Infection,0,0,45,1,0,1,0,14
+Zika Virus,0,0,45,1,2,2,0,68
+Allergic Rhinitis,1,0,45,0,2,1,1,5
+Anxiety Disorders,1,0,45,0,2,1,1,6
+Asthma,1,1,45,0,1,1,1,3
+Cataracts,0,0,45,1,1,2,1,69
+Crohn's Disease,0,0,45,1,2,2,1,63
+Crohn's Disease,1,0,45,1,2,2,1,63
+Depression,0,0,45,1,2,2,1,11
+Diabetes,1,0,45,1,2,2,1,7
+Diabetes,0,0,45,0,1,2,1,7
+Hypertension,1,0,45,0,1,2,1,35
+Hypothyroidism,0,0,45,1,2,2,1,61
+Liver Disease,1,0,45,1,1,2,1,41
+Multiple Sclerosis,1,0,45,1,2,2,1,27
+Osteoarthritis,1,1,45,0,2,1,1,45
+Osteoporosis,1,0,45,1,1,2,1,30
+Pneumocystis Pneumonia (PCP),1,0,45,1,2,2,1,70
+Pneumonia,1,1,45,0,2,2,1,31
+Scoliosis,0,0,45,1,2,2,1,71
+Sickle Cell Anemia,0,0,45,1,1,1,1,72
+Tetanus,0,0,45,0,1,2,1,73
+Hypertension,0,0,48,1,0,2,0,35
+Hypothyroidism,0,0,48,0,1,2,0,61
+Allergic Rhinitis,1,0,50,0,2,2,0,5
+Anemia,0,0,50,0,1,1,0,74
+Anxiety Disorders,0,0,50,0,1,1,0,6
+Cholera,1,1,50,1,2,2,0,75
+Crohn's Disease,1,0,50,0,1,2,0,63
+Crohn's Disease,0,0,50,0,1,2,0,63
+Depression,0,0,50,1,0,0,0,11
+Diabetes,0,0,50,0,1,2,0,7
+Endometriosis,1,0,50,0,2,1,0,76
+Hypertension,0,0,50,1,1,0,0,35
+Hypothyroidism,1,0,50,0,1,2,0,61
+Kidney Cancer,0,0,50,0,0,2,0,17
+Kidney Disease,0,1,50,0,1,1,0,44
+Pancreatitis,0,0,50,0,0,2,0,9
+Rheumatoid Arthritis,0,0,50,1,0,1,0,10
+Sepsis,1,0,50,0,1,1,0,77
+Sleep Apnea,1,1,50,0,2,2,0,78
+Urinary Tract Infection,1,1,50,0,2,1,0,14
+Asthma,1,1,50,1,1,2,1,3
+Bronchitis,1,1,50,0,2,2,1,23
+Down Syndrome,0,0,50,1,2,2,1,79
+Ebola Virus,1,1,50,0,1,1,1,80
+Eczema,0,0,50,1,2,2,1,2
+Gastroenteritis,1,1,50,1,2,1,1,8
+Klinefelter Syndrome,0,0,50,1,1,1,1,46
+Liver Cancer,0,1,50,0,2,2,1,12
+Lyme Disease,1,0,50,0,1,2,1,81
+Pancreatic Cancer,0,0,50,1,2,2,1,82
+Pneumothorax,0,1,50,1,2,2,1,83
+Stroke,0,1,50,0,2,2,1,13
+Ulcerative Colitis,0,0,50,1,1,2,1,21
+Hypertension,1,0,52,0,1,0,0,35
+Multiple Sclerosis,0,0,52,0,1,1,0,27
+Appendicitis,1,0,55,0,1,1,0,84
+Bronchitis,0,1,55,0,2,2,0,23
+Bronchitis,1,1,55,0,2,1,0,23
+Common Cold,1,1,55,0,1,0,0,1
+Diabetes,0,0,55,1,1,2,0,7
+Esophageal Cancer,0,0,55,0,1,1,0,85
+HIV/AIDS,1,0,55,1,2,2,0,86
+Hypertension,0,0,55,1,1,0,0,35
+Liver Disease,0,0,55,0,2,0,0,41
+Marfan Syndrome,0,0,55,0,2,2,0,87
+Migraine,0,1,55,1,1,0,0,18
+Osteoporosis,0,0,55,0,2,1,0,30
+Parkinson's Disease,0,0,55,1,1,0,0,88
+Anxiety Disorders,1,0,55,1,1,0,1,6
+Coronary Artery Disease,0,0,55,1,1,1,1,53
+Hemorrhoids,0,0,55,1,2,2,1,89
+Hypertension,1,0,55,0,2,1,1,35
+Hypothyroidism,0,0,55,1,2,2,1,61
+Osteoarthritis,1,0,55,1,2,2,1,45
+Osteoporosis,1,1,55,0,2,0,1,30
+Osteoporosis,0,0,55,1,1,1,1,30
+Osteoporosis,1,0,55,1,1,1,1,30
+Polycystic Ovary Syndrome (PCOS),1,0,55,1,1,1,1,90
+Systemic Lupus Erythematosus...,0,0,55,1,2,2,1,91
+Typhoid Fever,0,0,55,0,1,0,1,92
+Influenza,1,1,56,0,2,2,1,0
+Pneumonia,1,1,57,0,1,2,0,31
+Breast Cancer,0,0,60,0,2,2,0,93
+Coronary Artery Disease,1,0,60,0,2,2,0,53
+Hyperthyroidism,0,0,60,0,1,1,0,4
+Measles,1,0,60,1,2,1,0,94
+Osteoarthritis,0,1,60,1,1,1,0,45
+Osteomyelitis,0,0,60,0,1,1,0,95
+Osteoporosis,1,0,60,0,2,2,0,30
+Osteoporosis,0,0,60,0,2,2,0,30
+Polio,1,0,60,0,1,1,0,96
+Asthma,1,1,60,1,2,2,1,3
+Chronic Kidney Disease,0,0,60,1,1,2,1,97
+Hemophilia,0,0,60,1,1,1,1,56
+Hepatitis B,0,0,60,0,1,0,1,98
+Hypertension,0,0,60,1,2,1,1,35
+Hypertension,1,0,60,0,2,1,1,35
+Hypertension,0,0,60,1,2,2,1,35
+Kidney Cancer,1,0,60,1,2,1,1,17
+Kidney Disease,1,1,60,1,2,2,1,44
+Osteoporosis,1,0,60,0,2,1,1,30
+Pancreatitis,1,0,60,1,2,1,1,9
+Parkinson's Disease,1,0,60,0,2,1,1,88
+Prader-Willi Syndrome,0,0,60,1,1,1,1,99
+Rheumatoid Arthritis,0,0,60,1,2,2,1,10
+Thyroid Cancer,0,0,60,1,2,2,1,100
+Tuberculosis,1,0,60,1,2,2,1,59
+Bladder Cancer,0,0,65,0,1,1,0,101
+Diabetes,0,0,65,0,1,2,0,7
+Otitis Media (Ear Infection),1,0,65,0,1,1,0,102
+Stroke,1,0,65,1,2,0,0,13
+Tourette Syndrome,0,0,65,0,2,2,0,103
+Urinary Tract Infection (UTI),1,0,65,0,2,1,0,29
+Alzheimer's Disease,0,0,65,0,1,2,1,104
+Alzheimer's Disease,0,0,65,1,2,2,1,104
+Bronchitis,1,1,65,0,2,2,1,23
+Chronic Obstructive Pulmonary Disease (COPD),1,1,65,1,2,2,1,105
+Dementia,0,0,65,1,2,2,1,106
+Diabetes,1,0,65,1,1,2,1,7
+Diverticulitis,0,0,65,1,2,2,1,107
+Liver Cancer,1,0,65,1,2,2,1,12
+Lung Cancer,1,0,65,1,2,2,1,60
+Lung Cancer,1,0,65,1,1,2,1,60
+Mumps,0,0,65,0,1,2,1,108
+Osteoporosis,0,0,65,1,2,2,1,30
+Stroke,1,0,65,1,2,2,1,13
+Alzheimer's Disease,1,0,70,1,2,1,0,104
+Cholecystitis,0,0,70,0,1,1,0,109
+Chronic Obstructive Pulmonary Disease (COPD),0,1,70,0,1,2,0,105
+Osteoporosis,1,0,70,0,1,1,0,30
+Parkinson's Disease,0,0,70,0,1,1,0,88
+Prostate Cancer,1,0,70,0,2,1,0,110
+Schizophrenia,0,0,70,0,1,1,0,111
+Gout,1,0,70,1,1,2,1,112
+Migraine,0,0,70,1,1,1,1,18
+Stroke,0,0,70,0,1,2,1,13
+Testicular Cancer,0,0,70,1,2,2,1,113
+Tonsillitis,1,0,70,1,2,2,1,114
+Williams Syndrome,0,0,70,1,1,1,1,115
+Stroke,1,0,80,1,2,2,1,13
+Stroke,1,0,85,0,2,2,1,13
+Stroke,1,0,90,1,2,2,1,13
