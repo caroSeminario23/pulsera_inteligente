@@ -1,2 +1,4 @@
-# pulsera_inteligente
-Proyecto de IoT
+# Pulsera_inteligente
+## Proyecto de IoT
+
+**Estado:** En proceso
