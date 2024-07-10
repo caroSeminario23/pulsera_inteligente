@@ -4,13 +4,13 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": -725,
-    "zoomLevel": 1,
+    "scrollTop": -527,
+    "scrollLeft": -138,
+    "zoomLevel": 0.9,
     "show": 511,
     "database": 16,
     "databaseName": "FISI Salud",
-    "canvasType": "@dineug/erd-editor/builtin-schema-sql",
+    "canvasType": "ERD",
     "language": 1,
     "tableNameCase": 4,
     "columnNameCase": 2,
@@ -6668,34 +6668,6 @@
           "createAt": 1719195784416
         }
       },
-      "w3UMBet06iGFYyKRBfH7G": {
-        "id": "w3UMBet06iGFYyKRBfH7G",
-        "identification": false,
-        "relationshipType": 16,
-        "startRelationshipType": 2,
-        "start": {
-          "tableId": "8ZdPMJ3C2efH0dQwIehYf",
-          "columnIds": [
-            "5kmLhpKMBGEMa1QN7XEQ-"
-          ],
-          "x": 591,
-          "y": 393,
-          "direction": 2
-        },
-        "end": {
-          "tableId": "V1B34QYmw7MW160mtc7Fi",
-          "columnIds": [
-            "JrUb1nqwIznHrKIKRIWyf"
-          ],
-          "x": 1152,
-          "y": 538,
-          "direction": 1
-        },
-        "meta": {
-          "updateAt": 1719195917634,
-          "createAt": 1719195917634
-        }
-      },
       "9XB6fVfnIJeBLxxXgz_OF": {
         "id": "9XB6fVfnIJeBLxxXgz_OF",
         "identification": false,
@@ -10583,12 +10555,6 @@
         "default": 1719195917630,
         "comment": 1719195917630
       }
-    ],
-    "w3UMBet06iGFYyKRBfH7G": [
-      "relationshipEntities",
-      1719195917630,
-      1719195922394,
-      {}
     ],
     "g0h4R0pQ0TsPzBxXInDTD": [
       "tableColumnEntities",
